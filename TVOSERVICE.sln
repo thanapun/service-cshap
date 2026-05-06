@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TVOSERVICE", "TVOSERVICE\TVOSERVICE.csproj", "{42700C0F-FE91-4529-860D-DD96543E9E7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42700C0F-FE91-4529-860D-DD96543E9E7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42700C0F-FE91-4529-860D-DD96543E9E7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42700C0F-FE91-4529-860D-DD96543E9E7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42700C0F-FE91-4529-860D-DD96543E9E7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24104987-F4EF-4AC0-80D7-175CD44151A2}
+	EndGlobalSection
+EndGlobal
